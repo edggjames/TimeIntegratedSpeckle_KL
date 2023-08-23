@@ -10,6 +10,6 @@ I have made this code open source in the hope that others may use and/or extend 
 
 1. Edward James, Samuel Powell, and Peter Munro, "Simulation of statistically accurate time-integrated dynamic speckle patterns in biomedical optics," Opt. Lett. 46, 4390-4393 (2021)
 2. Edward James, Samuel Powell, Peter Munro, "Simulation of statistically accurate time-integrated dynamic speckle patterns in biomedical optics," Proc. SPIE PC11959, Dynamics and Fluctuations in Biomedical Photonics XIX, PC1195906 (2 March 2022); https://doi.org/10.1117/12.2603939
-3. E. James, S. Powell and P. Munro, "Simulation of time-integrated dynamic speckle patterns in biomedical optics," 2021 IEEE Photonics Conference (IPC), Vancouver, BC, Canada, 2021, pp. 1-2, doi: 10.1109/IPC48725.2021.9592981
+3. E. James, S. Powell and P. Munro, "Simulation of time-integrated dynamic speckle patterns in biomedical optics," 2021 IEEE Photonics Conference (IPC), Vancouver, BC, Canada, 2021, pp. 1-2, doi: 10.1109/IPC48725.2021.9592981.
 4. James, Edward. Holographic Fourier domain diffuse correlation spectroscopy. Diss. UCL (University College London), 2022.
 
