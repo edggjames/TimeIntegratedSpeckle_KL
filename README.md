@@ -1,3 +1,5 @@
+![Ancillary_scripts/Data/speckles.png](https://github.com/edggjames/TimeIntegratedSpeckle_KL/blob/main/Ancillary_scripts/Data/speckles.png)
+
 # TimeIntegratedSpeckle_KL
 
 This repository contains code that I have written to simulate statistically accurate 2D time-integrated dynamic speckle patterns in biomedical optics: a previously unsolved problem. 
@@ -15,4 +17,4 @@ I have made this code open source in the hope that others may use and/or extend 
 
 Any omissions, bugs, questions, broken links, comments, requests for example data sets, or if you wish to collaborate please contact me on <edggjames@hotmail.com>
 
-![Ancillary_scripts/Data/speckles.png](https://github.com/edggjames/TimeIntegratedSpeckle_KL/blob/main/Ancillary_scripts/Data/speckles.png)
+
