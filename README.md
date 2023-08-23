@@ -18,4 +18,4 @@ Any omissions, bugs, questions, broken links, comments, requests for example dat
 ![Documentation/experimental_setup.jpg
 ](https://github.com/edggjames/AngularOpticalMemory/blob/main/Documentation/experimental_setup.jpg)
 
-Ancillary_scripts/Data/speckles.png
+![Ancillary_scripts/Data/speckles.png]()
