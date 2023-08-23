@@ -13,7 +13,7 @@ I have made this code open source in the hope that others may use and/or extend 
 3. E. James, S. Powell and P. Munro, "Simulation of time-integrated dynamic speckle patterns in biomedical optics," 2021 IEEE Photonics Conference (IPC), Vancouver, BC, Canada, 2021, pp. 1-2.
 4. James, Edward. Holographic Fourier domain diffuse correlation spectroscopy. Diss. UCL (University College London), 2022.
 
-Any omissions, bugs, questions, broken links, comments, or requests for example data sets, please contact me on <edggjames@hotmail.com>
+Any omissions, bugs, questions, broken links, comments, requests for example data sets, or if you wish to collaborate please contact me on <edggjames@hotmail.com>
 
 ![Documentation/experimental_setup.jpg
 ](https://github.com/edggjames/AngularOpticalMemory/blob/main/Documentation/experimental_setup.jpg)
