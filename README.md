@@ -15,7 +15,4 @@ I have made this code open source in the hope that others may use and/or extend 
 
 Any omissions, bugs, questions, broken links, comments, requests for example data sets, or if you wish to collaborate please contact me on <edggjames@hotmail.com>
 
-![Documentation/experimental_setup.jpg
-](https://github.com/edggjames/AngularOpticalMemory/blob/main/Documentation/experimental_setup.jpg)
-
-![Ancillary_scripts/Data/speckles.png]()
+![Ancillary_scripts/Data/speckles.png](https://github.com/edggjames/TimeIntegratedSpeckle_KL/blob/main/Ancillary_scripts/Data/speckles.png)
